@@ -42,4 +42,8 @@ public class User {
   public Date getCreateDate() {
     return createDate;
   }
+
+  public void test() {
+    int k = 100;
+  }
 }
